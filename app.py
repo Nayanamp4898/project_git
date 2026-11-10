@@ -2,5 +2,7 @@ print("welcome to the app! This is a simple application that demonstrates basic 
 print("i m from branch nyn")
 print("haiiiiii in main branch")
 print("hello main")
+print("hello nyn")
+
 
 
